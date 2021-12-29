@@ -1,0 +1,5 @@
+/Users/admin/Projects/Deliverable1/Deliverable1/obj/Release/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Deliverables/Deliverable1/bin/Release/Deliverable1.exe
+/Users/admin/Projects/Deliverables/Deliverable1/obj/Release/Deliverable1.csproj.AssemblyReference.cache
+/Users/admin/Projects/Deliverables/Deliverable1/obj/Release/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Deliverables/Deliverable1/obj/Release/Deliverable1.exe
